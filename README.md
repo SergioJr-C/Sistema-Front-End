@@ -13,4 +13,4 @@ Html and Css test system, similar to that of IFFAR
 
 -Page index represents your home page, the links in the footer work and are redirectable;
 
--In the top menu, the "about" item redirects to the iffsvs.html page.
+-In the top menu, the "sobre" item redirects to the iffsvs.html page.
